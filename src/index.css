@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: BentonSans !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.grad {
+  background: linear-gradient(
+    180deg,
+    #dfdfdf 0%,
+    rgba(223, 223, 223, 0.721482) 65.13%,
+    rgba(223, 223, 223, 0) 100%
+  );
+}
+@media (max-width: 1023px) {
+}
+
+@media only screen and (max-width: 768px) and (min-width: 425px) {
+}
