@@ -109,7 +109,7 @@ function Home2() {
             </div>
           </div>
           <div className=" flex text-xl justify-center">
-            <button>Report crimes</button>
+            <button>Provide information</button>
           </div>
         </div>
         {/* end card */}
@@ -134,7 +134,7 @@ function Home2() {
             </div>
           </div>
           <div className=" flex text-xl justify-center">
-            <button>Report crimes</button>
+            <button>Public alerts</button>
           </div>
         </div>
         {/* end card */}
@@ -159,7 +159,7 @@ function Home2() {
             </div>
           </div>
           <div className=" flex text-xl justify-center">
-            <button>Report crimes</button>
+            <button>Service Center</button>
           </div>
         </div>
         {/* end card */}
