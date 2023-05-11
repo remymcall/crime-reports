@@ -52,7 +52,7 @@ function Report() {
             {/* rows */}
             <div className="flex flex-row w-full h-full">
               {/* row1 */}
-              <div className="flex flex-col w-1/2 h-full border mr-4">
+              <div className="flex flex-col w-1/2 h-full  mr-4">
                 {/* start of date input */}
                 <div className="flex flex-row justify-start items-center p-1 bg-white w-full mt-4">
                   <div className=" w-[21] h-[22]">
@@ -277,9 +277,9 @@ function Report() {
             </div>
           </div>
 
-          <div className="flex justify-center rounded w-full h-[10%] bg-[#377D97]">
+          <div className="flex justify-center tex-xl text-white rounded w-full h-[10%] bg-[#377D97]">
             {" "}
-            hh
+            REPORT YOUR CRIME
           </div>
         </div>
       </div>
