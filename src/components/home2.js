@@ -168,7 +168,7 @@ function Home2() {
 
       <div className=" flex bg-[#FFA336] flex-col items-center w-full px-30 text-[#377D97] justify-center">
         <div className="flex justify-center pb-8 text-[2em] text-[#377D97]  font-bold">
-          Testimonial
+          Feedback from our users
         </div>
         <div className=" flex  px-10 py-3 w-full justify-between items-center">
           <div className=" flex  justify-center">
@@ -197,8 +197,7 @@ function Home2() {
           <div className=" flex flex-col p-4 pl-20 justify-center">
             <div className=" text-xl">LINDA R. NOWAK</div>
             <div className="w-[400px]">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut
-              imperdiet nisi. Interdum
+              "Thank you for providing such valuable information about local crime activity. Your reports are always detailed and informative, and I appreciate how quickly you update them with new information. I feel like I have a better understanding of the types of crimes that are happening in my area, which helps me take steps to protect myself and my property. Keep up the good work!"
             </div>
           </div>
           <div className=" flex  justify-center">
@@ -232,15 +231,12 @@ function Home2() {
         <div className=" flex  px-10 py-3 w-full justify-between">
           <div className=" w-1/2 flex flex-col p-4 justify-center">
             <div>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut
-              imperdiet nisi. Interdum Lorem ipsum dolor sit amet, consectetur
-              adipiscing elit. Nullam ut imperdiet nisi. Interdum Lorem ipsum
-              dolor sit amet, consectetur adipiscing elit. Nullam ut imperdiet
-              nisi. Interdum Lorem ipsum dolor sit amet, consectetur adipiscing
-              elit. Nullam ut imperdiet nisi. InterdumLorem ipsum dolor sit
-              amet, consectetur adipiscing elit. Nullam ut imperdiet nisi.
-              Interdum Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Nullam ut imperdiet nisi. Interdum
+           The goal of our society is to provide information about criminal activity to the public, law enforcement agencies, and other relevant parties. The primary goal is to inform the public about criminal activity in their area, raise awareness about the types of crimes being committed, and help people take measures to protect themselves and their property.
+
+Crime reports also play a crucial role in assisting law enforcement agencies in their investigations. They provide information about the type of crime, location, time, and other details that can help identify suspects and solve cases. Crime reports can also be used to track crime trends and patterns, which can help law enforcement agencies allocate resources and develop strategies to prevent and reduce crime.
+
+Additionally, crime reports can be used to inform policymakers and other stakeholders about the effectiveness of current crime prevention strategies and to identify areas where additional resources may be needed. By providing accurate and timely information about criminal activity, crime reports can help promote public safety and support the overall well-being of society.
+
             </div>
           </div>
           <div className=" flex h-[620px] w-1/2 justify-center p-2 object-cover ">
