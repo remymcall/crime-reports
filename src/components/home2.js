@@ -225,11 +225,11 @@ function Home2() {
       </div>
       {/* our objctive */}
       <div className=" flex bg-[#12384E] flex-col items-center w-full px-[10px] text-[#377D97] justify-center">
-        <div className="flex justify-center pb-8 text-[2em] text-[#377D97]  font-bold">
+        <div className="flex justify-center pb-8 text-[2em] text-[#377D97] text-white  font-bold">
           Our objective
         </div>
         <div className=" flex  px-10 py-3 w-full justify-between">
-          <div className=" w-1/2 flex flex-col p-4 justify-center">
+          <div className=" w-1/2 flex flex-col p-4 justify-center text-white">
             <div>
            The goal of our society is to provide information about criminal activity to the public, law enforcement agencies, and other relevant parties. The primary goal is to inform the public about criminal activity in their area, raise awareness about the types of crimes being committed, and help people take measures to protect themselves and their property.
 
