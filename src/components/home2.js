@@ -53,7 +53,7 @@ function Home2() {
         </div>
         <div className="flex justify-center mt-2">
           <NavLink to="/signIn">
-            <button className=" flex  justify-center text-md items-center rounded-full font-bold bg-white text-[#12384E] h-[50px] w-[350px] hover:opacity-90 ">
+            <button className=" flex  justify-center text-md items-center rounded-full font-bold bg-white text-[#12384E] h-[50px] w-[350px] hover:opacity-90 duration-75 ">
               Join our community
             </button>
           </NavLink>
