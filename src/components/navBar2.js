@@ -29,7 +29,7 @@ function Navbar2() {
       </div>
       <div className="flex flex-row justify-center">
         <NavLink to="/publicalert">
-          <button className="rounded-full px-3 py-3  text-xl">
+          <button className="rounded-full px-3 py-3  text-xl hover:underline duration-75">
             Public Alert
           </button>
         </NavLink>
