@@ -277,9 +277,9 @@ function Report() {
             </div>
           </div>
 
-          <div className="flex justify-center tex-xl text-white rounded w-full h-[10%] bg-[#377D97]">
+          <div className="flex justify-center items-center tex-xl text-white rounded w-full h-[10%] bg-[#377D97]">
             {" "}
-            REPORT YOUR CRIME
+            <div className="flex">REPORT YOUR CRIME</div>
           </div>
         </div>
       </div>
